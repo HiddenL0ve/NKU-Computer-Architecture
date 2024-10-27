@@ -1,0 +1,12 @@
+0.6
+2017.1
+Apr 14 2017
+19:10:27
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.sim/sim_1/behav/glbl.v,1492045073,verilog,,,,glbl,,,,,,,,
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.srcs/sources_1/new/adder.v,1717123043,verilog,,,,adder,,,,,,,,
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.srcs/sources_1/new/alu.v,1717123023,verilog,,,,alu,,,,,,,,
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.srcs/sources_1/new/data_ram.v,1717122999,verilog,,,,data_ram,,,,,,,,
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.srcs/sources_1/new/inst_rom.v,1717122935,verilog,,,,inst_rom,,,,,,,,
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.srcs/sources_1/new/regfile.v,1717122945,verilog,,,,regfile,,,,,,,,
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.srcs/sources_1/new/single_cycle_cpu.v,1717123121,verilog,,,,single_cycle_cpu,,,,,,,,
+D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.srcs/sources_1/new/single_cycle_cpu_display.v,1717123850,verilog,,,,single_cycle_cpu_display,,,,,,,,

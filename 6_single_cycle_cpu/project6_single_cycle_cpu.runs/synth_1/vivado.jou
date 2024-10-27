@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.1 (64-bit)
+# SW Build 1846317 on Fri Apr 14 18:55:03 MDT 2017
+# IP Build 1846188 on Fri Apr 14 20:52:08 MDT 2017
+# Start of session at: Fri Jun  7 13:12:09 2024
+# Process ID: 22936
+# Current directory: D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.runs/synth_1
+# Command line: vivado.exe -log single_cycle_cpu_display.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source single_cycle_cpu_display.tcl
+# Log file: D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.runs/synth_1/single_cycle_cpu_display.vds
+# Journal file: D:/vivado_project1/memory_async/project6_single_cycle_cpu/project6_single_cycle_cpu.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source single_cycle_cpu_display.tcl -notrace
